@@ -141,12 +141,22 @@ img {
     .col {
         min-width: 100%;
     }
+    .padd {
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+    .padd-bottom {
+        padding-bottom: 3rem;
+    }
     .steps {
         margin-bottom: 0;
     }
     .why-us {
         background-color: rgb(34, 34, 34);
         margin: 0;
-        padding: 3rem 0;
+        padding: 3rem 2rem;
+    }
+    .why-us .col-left {
+        padding-bottom: 2rem;
     }
 }
