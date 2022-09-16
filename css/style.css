@@ -142,11 +142,11 @@ img {
         min-width: 100%;
     }
     .padd {
-        padding-left: 1.5rem;
-        padding-right: 1.5rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
     }
     .padd-bottom {
-        padding-bottom: 3rem;
+        padding-bottom: 3.5rem;
     }
     .steps {
         margin-bottom: 0;
