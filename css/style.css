@@ -132,3 +132,10 @@ img {
         width: 100%;
     }
 }
+@media screen and (max-width: 480px) {
+    header, .container, .row {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
